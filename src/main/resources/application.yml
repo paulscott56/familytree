@@ -1,0 +1,9 @@
+server:
+  port: 7475
+
+spring:
+  neo4j:
+    uri:
+    authentication:
+      username: neo4j
+      password: 
